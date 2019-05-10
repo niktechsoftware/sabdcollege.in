@@ -94,6 +94,7 @@
                         </ul>
                     </li>
                     <li> <a href="<?php echo base_url()?>index.php/welcome/contact">Contact</a></li>
+                    <li> <a href="<?php echo base_url()?>index.php/welcome/contact">Admin</a></li>
                 </ul>
             </div>
         </div>
