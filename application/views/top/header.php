@@ -49,7 +49,7 @@
                         <li> <span>Email</span> <a href="mailto:info@edumart.org"></a> </li>
                     </ul>
                     <a href="<?php echo base_url()?>index.php/welcome/log" class="login">Student Login <span class="icon-more-icon"></span></a>
-                    <a href="<?php echo base_url()?>sabdcollege.in/admin" class="login">Admin Login <span class="icon-more-icon"></span></a>
+                    <a href="http://sabdcollege.in/admin" class="login">Admin Login <span class="icon-more-icon"></span></a>
                      </div>
             </div>
         </div>
