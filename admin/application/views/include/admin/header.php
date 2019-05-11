@@ -3,7 +3,7 @@
 <head>
         
         <!-- Title -->
-        <title><?php echo $title; ?></title>
+        <title>Sabir ali Girls degree college</title>
         
         <meta content="width=device-width, initial-scale=1" name="viewport"/>
         <meta charset="UTF-8">
@@ -32,7 +32,7 @@
                         </a>
                     </div>
                     <div class="logo-box">
-                        <a href="index.html" class="logo-text"><span>Springdale School</span></a>
+                        <a href="index.html" class="logo-text"><span>Sabir Ali Girls Degree College</span></a>
                     </div><!-- Logo Box -->
                     <div class="search-button">
                         <a href="javascript:void(0);" class="waves-effect waves-button waves-classic show-search"><i class="fa fa-search"></i></a>

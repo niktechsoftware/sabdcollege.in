@@ -37,26 +37,6 @@ class Welcome extends CI_Controller {
 		$data['page']='gallerys';
         $this->load->view('all',$data);
 	}
-	// public function register()
-	// {
-	// 	$data['page']='registers';
-    //     $this->load->view('all',$data);
-	// }
-	// public function applyonline()
-	// {
-	// 	$data['page']='online';
-    //     $this->load->view('all',$data);
-	// }
-	// public function blog()
-	// {
-	// 	$data['page']='blogs';
-    //     $this->load->view('all',$data);
-	// }
-	// public function faq()
-	// {
-	// 	$data['page']='faqs';
-    //     $this->load->view('all',$data);
-	// }
 	public function news()
 	{
 		$data['page']='newss';
@@ -96,6 +76,10 @@ class Welcome extends CI_Controller {
 	{
 		$data['page']='contacts';
         $this->load->view('all',$data);
+	}
+	public function log()
+	{
+        $this->load->view('login');
 	}
 }
 

@@ -12,8 +12,8 @@
 <body>
 	<table style="margin-top:0px;">
 	<tr><td><center><img width="120" height="120" src="<?php echo base_url();?>assets/images/logo.jpg" alt="" /></center></td>
-	<td><center><h1 style="color:blue">Spring Dale School</h1>
-		<h3 style="color:blue">EIDGAH ROAD NEAR POLICE CHAUKI BADARAKA</h3>
+	<td><center><h1 style="color:blue">Sabir Ali Girls Degree </h1>
+		<h3 style="color:blue">Ghaziyabad</h3>
 		<h2 style="color:blue">
 ADMISSION FORM
 <br>20___20</h2>
@@ -22,8 +22,7 @@ ADMISSION FORM
 
 <tr><td>To,<br>
 The principal<br>
-Spring Dale School<br>
-Azamgarh
+Sabir Ali Girls Degree college
 </td>
 <td></td>
 <td></td></tr>

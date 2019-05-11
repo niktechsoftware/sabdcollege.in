@@ -22,12 +22,12 @@
                 <li><a href="#"><i class="fa fa-instagram" aria-hidden="true"></i></a></li>
             </ul>
             <div class="right-block clearfix">
-                <ul class="top-nav hidden-xs">
+                <!-- <ul class="top-nav hidden-xs">
                     <li><a href="#">Register</a></li>
                     <li><a href="#">Apply Online</a></li>
                     <li><a href="#">Blog</a></li>
                     <li><a href="#">FAQs</a></li>
-                </ul>
+                </ul> -->
                     <div class="select-lang2">
                         <select class="custom_select">
                             <option value="en">English</option>
@@ -46,10 +46,11 @@
             <div class="col-xs-6 col-sm-9">
                 <div class="contact clearfix">
                     <ul class="hidden-xs">
-                        <li> <span>Email</span> <a href="mailto:info@edumart.org">info@edumart.org</a> </li>
-                        <li> <span>Toll Free</span> 1800 000 0000 </li>
+                        <li> <span>Email</span> <a href="mailto:info@edumart.org"></a> </li>
                     </ul>
-                    <a href="login.html" class="login">Student Login <span class="icon-more-icon"></span></a> </div>
+                    <a href="<?php echo base_url()?>index.php/welcome/log" class="login">Student Login <span class="icon-more-icon"></span></a>
+                    <a href="<?php echo base_url()?>sabdcollege.in/admin" class="login">Admin Login <span class="icon-more-icon"></span></a>
+                     </div>
             </div>
         </div>
     </div>
@@ -94,7 +95,6 @@
                         </ul>
                     </li>
                     <li> <a href="<?php echo base_url()?>index.php/welcome/contact">Contact</a></li>
-                    <li> <a href="<?php echo base_url()?>index.php/welcome/contact">Admin</a></li>
                 </ul>
             </div>
         </div>

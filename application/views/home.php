@@ -333,27 +333,6 @@
                     <div class="overlay">
                         <h3>Lorem ipsum</h3>
                         <p>Lorem ipsum</p>
-                        <a class="galleryItem" href="<?php echo base_url()?>assets/images/pic5.jpeg"><span class="icon-enlarge-icon"></span></a> <a href="<?php echo base_url()?>index.php/welcome/gallery" class="more"><span class="icon-gallery-more-arrow"></span></a> </div>
-                    <figure><img src="<?php echo base_url()?>assets/images/pic5.jpeg" class="img-responsive" alt=""></figure>
-                </li>
-                <li>
-                    <div class="overlay">
-                        <h3>Lorem ipsum</h3>
-                        <p>Lorem ipsum</p>
-                        <a class="galleryItem" href="<?php echo base_url()?>assets/images/pic6.jpeg"><span class="icon-enlarge-icon"></span></a> <a href="<?php echo base_url()?>index.php/welcome/gallery" class="more"><span class="icon-gallery-more-arrow"></span></a> </div>
-                    <figure><img src="<?php echo base_url()?>assets/images/pic6.jpeg" class="img-responsive" alt=""></figure>
-                </li>
-                <li>
-                    <div class="overlay">
-                        <h3>Lorem ipsum</h3>
-                        <p>Lorem ipsum</p>
-                        <a class="galleryItem" href="<?php echo base_url()?>assets/images/pic7.jpeg"><span class="icon-enlarge-icon"></span></a> <a href="<?php echo base_url()?>index.php/welcome/gallery" class="more"><span class="icon-gallery-more-arrow"></span></a> </div>
-                    <figure><img src="<?php echo base_url()?>assets/images/pic7.jpeg" class="img-responsive" alt=""></figure>
-                </li>
-                <li>
-                    <div class="overlay">
-                        <h3>Lorem ipsum</h3>
-                        <p>Lorem ipsum</p>
                         <a class="galleryItem" href="<?php echo base_url()?>assets/images/pic8.jpeg"><span class="icon-enlarge-icon"></span></a> <a href="<?php echo base_url()?>index.php/welcome/gallery" class="more"><span class="icon-gallery-more-arrow"></span></a> </div>
                     <figure><img src="<?php echo base_url()?>assets/images/pic8.jpeg" class="img-responsive" alt=""></figure>
                 </li>
@@ -370,6 +349,27 @@
                         <p>Lorem ipsum</p>
                         <a class="galleryItem" href="<?php echo base_url()?>assets/images/pic10.jpeg"><span class="icon-enlarge-icon"></span></a> <a href="<?php echo base_url()?>index.php/welcome/gallery" class="more"><span class="icon-gallery-more-arrow"></span></a> </div>
                     <figure><img src="<?php echo base_url()?>assets/images/pic10.jpeg" class="img-responsive" alt=""></figure>
+                </li>
+                 <li>
+                    <div class="overlay">
+                        <h3>Lorem ipsum</h3>
+                        <p>Lorem ipsum</p>
+                        <a class="galleryItem" href="<?php echo base_url()?>assets/images/pic6.jpeg"><span class="icon-enlarge-icon"></span></a> <a href="<?php echo base_url()?>index.php/welcome/gallery" class="more"><span class="icon-gallery-more-arrow"></span></a> </div>
+                    <figure><img src="<?php echo base_url()?>assets/images/pic6.jpeg" class="img-responsive" alt=""></figure>
+                </li>
+                <li>
+                    <div class="overlay">
+                        <h3>Lorem ipsum</h3>
+                        <p>Lorem ipsum</p>
+                        <a class="galleryItem" href="<?php echo base_url()?>assets/images/pic5.jpeg"><span class="icon-enlarge-icon"></span></a> <a href="<?php echo base_url()?>index.php/welcome/gallery" class="more"><span class="icon-gallery-more-arrow"></span></a> </div>
+                    <figure><img src="<?php echo base_url()?>assets/images/pic5.jpeg" class="img-responsive" alt=""></figure>
+                </li> 
+                 <li>
+                    <div class="overlay">
+                        <h3>Lorem ipsum</h3>
+                        <p>Lorem ipsum</p>
+                        <a class="galleryItem" href="<?php echo base_url()?>assets/images/pic7.jpeg"><span class="icon-enlarge-icon"></span></a> <a href="<?php echo base_url()?>index.php/welcome/gallery" class="more"><span class="icon-gallery-more-arrow"></span></a> </div>
+                    <figure><img src="<?php echo base_url()?>assets/images/pic7.jpeg" class="img-responsive" alt=""></figure>
                 </li>
                 <!-- <li>
                     <div class="overlay">

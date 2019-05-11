@@ -44,27 +44,6 @@
                         <a class="galleryItem" href="<?php echo base_url()?>assets/images/pic4.jpeg"><span class="icon-enlarge-icon"></span></a> <a href="#" class="more"><span class="icon-gallery-more-arrow"></span></a> </div>
                     <figure><img src="<?php echo base_url()?>assets/images/pic4.jpeg" class="img-responsive" alt=""></figure>
                 </li>
-                <li class="isotopeSelector Party contest music">
-                    <div class="overlay">
-                        <h3>Lorem ipsum</h3>
-                        <p>Lorem ipsum</p>
-                        <a class="galleryItem" href="<?php echo base_url()?>assets/images/pic5.jpeg"><span class="icon-enlarge-icon"></span></a> <a href="#" class="more"><span class="icon-gallery-more-arrow"></span></a> </div>
-                    <figure><img src="<?php echo base_url()?>assets/images/pic5.jpeg" class="img-responsive" alt=""></figure>
-                </li>
-                <li class="isotopeSelector Party music">
-                    <div class="overlay">
-                        <h3>Lorem ipsum</h3>
-                        <p>Lorem ipsum</p>
-                        <a class="galleryItem" href="<?php echo base_url()?>assets/images/pic6.jpeg"><span class="icon-enlarge-icon"></span></a> <a href="#" class="more"><span class="icon-gallery-more-arrow"></span></a> </div>
-                    <figure><img src="<?php echo base_url()?>assets/images/pic6.jpeg" class="img-responsive" alt=""></figure>
-                </li>
-                <li class="isotopeSelector contest classes">
-                    <div class="overlay">
-                        <h3>Lorem ipsum</h3>
-                        <p>Lorem ipsum</p>
-                        <a class="galleryItem" href="<?php echo base_url()?>assets/images/pic7.jpeg"><span class="icon-enlarge-icon"></span></a> <a href="#" class="more"><span class="icon-gallery-more-arrow"></span></a> </div>
-                    <figure><img src="<?php echo base_url()?>assets/images/pic7.jpeg" class="img-responsive" alt=""></figure>
-                </li>
                 <li class="isotopeSelector music contest classes">
                     <div class="overlay">
                         <h3>Lorem ipsum</h3>
@@ -86,12 +65,19 @@
                         <a class="galleryItem" href="<?php echo base_url()?>assets/images/pic10.jpeg"><span class="icon-enlarge-icon"></span></a> <a href="#" class="more"><span class="icon-gallery-more-arrow"></span></a> </div>
                     <figure><img src="<?php echo base_url()?>assets/images/pic10.jpeg" class="img-responsive" alt=""></figure>
                 </li>
-                <li class="isotopeSelector Party music contest classes">
+                <li class="isotopeSelector Party music">
                     <div class="overlay">
                         <h3>Lorem ipsum</h3>
                         <p>Lorem ipsum</p>
-                        <a class="galleryItem" href="<?php echo base_url()?>assets/images/pic11.jpeg"><span class="icon-enlarge-icon"></span></a> <a href="#" class="more"><span class="icon-gallery-more-arrow"></span></a> </div>
-                    <figure><img src="<?php echo base_url()?>assets/images/pic11.jpeg" class="img-responsive" alt=""></figure>
+                        <a class="galleryItem" href="<?php echo base_url()?>assets/images/pic6.jpeg"><span class="icon-enlarge-icon"></span></a> <a href="#" class="more"><span class="icon-gallery-more-arrow"></span></a> </div>
+                    <figure><img src="<?php echo base_url()?>assets/images/pic6.jpeg" class="img-responsive" alt=""></figure>
+                </li>
+                <li class="isotopeSelector contest classes">
+                    <div class="overlay">
+                        <h3>Lorem ipsum</h3>
+                        <p>Lorem ipsum</p>
+                        <a class="galleryItem" href="<?php echo base_url()?>assets/images/pic7.jpeg"><span class="icon-enlarge-icon"></span></a> <a href="#" class="more"><span class="icon-gallery-more-arrow"></span></a> </div>
+                    <figure><img src="<?php echo base_url()?>assets/images/pic7.jpeg" class="img-responsive" alt=""></figure>
                 </li>
             </ul>
             <div class="text-center">
